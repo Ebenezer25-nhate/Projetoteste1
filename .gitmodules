@@ -1,0 +1,4 @@
+[submodule "fs_simul"]
+	path = fs_simul
+	url = https://github.com/Ebenezer25-nhate/fs_simul
+	branch = master
