@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main (){
 
-printf ("Hello world!");
-return 0;
+int soma (int a, int b);
+return a + b;  
 
 }
